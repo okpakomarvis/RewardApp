@@ -12,13 +12,13 @@ JWT Authentication: Secure API endpoints using JWT tokens.
 * Unit-Testing: Comprehensive testing to ensure functionality accros the backend
 * End-to-End : Comprehensive testing to ensure functionality on frontend.
 
-# Technology Stack
-## Frontend:
+## Technology Stack
+### Frontend:
 * React.js: For building the user interface.
 * Bootstrap: For responsive and consistent styling across devices.
 * Redux: For data fetching and state management.
 Cypress: For end-to-end testing.
-## Backend:
+### Backend:
 * Node.js: For server-side logic.
 * Express.js: For handling API requests and routing.
 * JWT: For secure user authentication.
@@ -97,7 +97,7 @@ npx cypress open
 ### Authentication
 * POST /api/auth/register: Register a new user.
 * POST /api/auth/login: Authenticate a user and return a JWT.
-## User and Rewards
+### User and Rewards
 * GET /api/users/profile: Fetch the authenticated user's details.
 * GET /api/rewards/status: Fetch the user's daily reward status.
 * POST /api/rewards/claim: Claim the daily reward.
