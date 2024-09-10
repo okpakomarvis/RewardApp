@@ -8,7 +8,7 @@ This web application is a subscription-based platform that incentivizes user eng
 * Subscription Levels: Three subscription levels are available—Basic, Premium, and VIP—each offering different daily rewards.
 * Daily Rewards: Users can claim rewards once every 24 hours, with a bonus on the 7th consecutive day of logging in.
 * Responsive Dashboard: A user-friendly dashboard displays subscription details, available rewards, and a countdown to the next reward.
-JWT Authentication: Secure API endpoints using JWT tokens.
+* JWT Authentication: Secure API endpoints using JWT tokens.
 * Unit-Testing: Comprehensive testing to ensure functionality accros the backend
 * End-to-End : Comprehensive testing to ensure functionality on frontend.
 
@@ -17,7 +17,7 @@ JWT Authentication: Secure API endpoints using JWT tokens.
 * React.js: For building the user interface.
 * Bootstrap: For responsive and consistent styling across devices.
 * Redux: For data fetching and state management.
-Cypress: For end-to-end testing.
+* Cypress: For end-to-end testing.
 ### Backend:
 * Node.js: For server-side logic.
 * Express.js: For handling API requests and routing.
